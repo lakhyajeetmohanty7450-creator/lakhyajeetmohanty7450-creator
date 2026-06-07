@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a self-learner currently studying Python and SQL while preparing for my B.Tech journey. I am passionate about Data Science, Artificial Intelligence, and technology. My goal is to build strong programming and analytical skills and become a Data Scientist.
+I am a self-learner currently  learning Python and SQL while preparing for my B.Tech journey. I am passionate about Data Science, Artificial Intelligence, and technology. My goal is to build strong programming and analytical skills and become a Data Scientist.
 
 ## Currently Learning
 
